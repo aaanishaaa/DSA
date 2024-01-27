@@ -1,0 +1,1 @@
+min=stacktop(&s1);
